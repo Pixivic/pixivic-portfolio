@@ -1,0 +1,2 @@
+Alagard and Pixel Operator font files were supplied by the user and are included in this project build.
+Please retain and follow any license files that came with the original font downloads.
